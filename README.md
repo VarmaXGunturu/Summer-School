@@ -16,4 +16,4 @@ I collaborated participation in a closed competition in Kaggle.
 
 More details regarding Kaggle competition can be found through the link below
 
-https://www.kaggle.com/rahulgunturu/code?scroll=true
+https://www.kaggle.com/rahulgunturu/code
